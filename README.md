@@ -31,3 +31,7 @@ Zara webiste looks very amazing and introduced with various type of languages li
  <ol dir="auto">◉ Admin can add a product product Will be shown on the Home Page </ol>
  <ol dir="auto">◉ Login and Sign Up </ol>
  </ul>
+ 
+ Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the section is there like Product Search and Login things etc.
+
+![Screenshot (318)](https://user-images.githubusercontent.com/107980582/214427377-6b53d58d-e002-496f-a122-78772338c)
