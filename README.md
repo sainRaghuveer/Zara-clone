@@ -50,6 +50,6 @@ Cart Page is also one of the most important factor. There are different kinds of
  Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - [x] Raghuveer Sain- [GitHub Profile](https://github.com/sainRaghuveer)
-- [x] Uttam Kumar Shaw - [GitHub Profile](https://github.com/Vv97) 
+- [x] Uttam Kumar Shaw - [GitHub Profile]([https://github.com/Vv97](https://github.com/uttamkrshaw)) 
 - [x] Dipak - [GitHub Profile](https://github.com/Deepak1095)
 
