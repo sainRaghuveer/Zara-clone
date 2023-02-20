@@ -43,3 +43,13 @@ Cart Page is also one of the most important factor. There are different kinds of
 ## Payment Page
 
 <img src="https://i.ibb.co/174H9qf/Screenshot-794.png" alt="Screenshot-794" border="0">
+
+
+## Contributers
+
+ Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+- [x] Raghuveer Sain- [GitHub Profile](https://github.com/sainRaghuveer)
+- [x] Uttam Kumar Shaw - [GitHub Profile](https://github.com/Vv97) 
+- [x] Dipak - [GitHub Profile](https://github.com/bakshay96)
+
