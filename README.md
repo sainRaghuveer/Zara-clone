@@ -42,6 +42,7 @@ Cart Page is also one of the most important factor. There are different kinds of
 
 ## Payment Page
 
+Here you can make your payment through available method and enjoy your product after delievery.
 <img src="https://i.ibb.co/174H9qf/Screenshot-794.png" alt="Screenshot-794" border="0">
 
 
