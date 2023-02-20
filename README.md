@@ -51,5 +51,5 @@ Cart Page is also one of the most important factor. There are different kinds of
 
 - [x] Raghuveer Sain- [GitHub Profile](https://github.com/sainRaghuveer)
 - [x] Uttam Kumar Shaw - [GitHub Profile](https://github.com/Vv97) 
-- [x] Dipak - [GitHub Profile](https://github.com/bakshay96)
+- [x] Dipak - [GitHub Profile](https://github.com/Deepak1095)
 
