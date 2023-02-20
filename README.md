@@ -35,4 +35,11 @@ Zara webiste looks very amazing and introduced with various type of languages li
  Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the section is there like Product Search and Login things etc.
 
 ![Screenshot (318)](https://i.ibb.co/VwNNnsj/zara-project-image.png)
-<img src="https://i.ibb.co/VwNNnsj/zara-project-image.png" alt="zara-project-image" border="0">
+
+## Cart Page
+Cart Page is also one of the most important factor. There are different kinds of the section is there like Product Search and Login things etc.
+<img src="https://i.ibb.co/Lr1qJ86/Screenshot-793.png" alt="Screenshot-793" border="0">
+
+## Payment Page
+
+<img src="https://i.ibb.co/174H9qf/Screenshot-794.png" alt="Screenshot-794" border="0">
