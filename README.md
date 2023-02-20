@@ -51,6 +51,6 @@ Here you can make your payment through available method and enjoy your product a
  Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - [x] Raghuveer Sain- [GitHub Profile](https://github.com/sainRaghuveer)
-- [x] Uttam Kumar Shaw - [GitHub Profile]([https://github.com/Vv97](https://github.com/uttamkrshaw)) 
+- [x] Uttam Kumar Shaw - [GitHub Profile](https://github.com/uttamkrshaw)
 - [x] Dipak - [GitHub Profile](https://github.com/Deepak1095)
 
